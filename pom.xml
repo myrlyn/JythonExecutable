@@ -29,7 +29,8 @@
 				<configuration>
 				    <!-- import python libs here -->
 					<libraries>
-						<param>requests</param>
+						<param>requests=2.13.0</param>
+						<param>nose</param>
 					</libraries>
 				</configuration>
 			</plugin>  
